@@ -1,0 +1,15 @@
+C:\Users\09896869499\Documents\Github\MeuPrimeiroProjeto\obj\Debug\net8.0\MeuPrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\09896869499\Documents\Github\MeuPrimeiroProjeto\obj\Debug\net8.0\MeuPrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\09896869499\Documents\Github\MeuPrimeiroProjeto\obj\Debug\net8.0\MeuPrimeiroProjeto.AssemblyInfo.cs
+C:\Users\09896869499\Documents\Github\MeuPrimeiroProjeto\obj\Debug\net8.0\MeuPrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\09896869499\Documents\Github\MeuPrimeiroProjeto\obj\Debug\net8.0\MeuPrimeiroProjeto.sourcelink.json
+C:\Users\09896869499\Documents\Github\MeuPrimeiroProjeto\bin\Debug\net8.0\MeuPrimeiroProjeto.exe
+C:\Users\09896869499\Documents\Github\MeuPrimeiroProjeto\bin\Debug\net8.0\MeuPrimeiroProjeto.deps.json
+C:\Users\09896869499\Documents\Github\MeuPrimeiroProjeto\bin\Debug\net8.0\MeuPrimeiroProjeto.runtimeconfig.json
+C:\Users\09896869499\Documents\Github\MeuPrimeiroProjeto\bin\Debug\net8.0\MeuPrimeiroProjeto.dll
+C:\Users\09896869499\Documents\Github\MeuPrimeiroProjeto\bin\Debug\net8.0\MeuPrimeiroProjeto.pdb
+C:\Users\09896869499\Documents\Github\MeuPrimeiroProjeto\obj\Debug\net8.0\MeuPrimeiroProjeto.dll
+C:\Users\09896869499\Documents\Github\MeuPrimeiroProjeto\obj\Debug\net8.0\refint\MeuPrimeiroProjeto.dll
+C:\Users\09896869499\Documents\Github\MeuPrimeiroProjeto\obj\Debug\net8.0\MeuPrimeiroProjeto.pdb
+C:\Users\09896869499\Documents\Github\MeuPrimeiroProjeto\obj\Debug\net8.0\MeuPrimeiroProjeto.genruntimeconfig.cache
+C:\Users\09896869499\Documents\Github\MeuPrimeiroProjeto\obj\Debug\net8.0\ref\MeuPrimeiroProjeto.dll
