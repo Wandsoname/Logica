@@ -8,7 +8,7 @@ int idade = int.Parse(Console.ReadLine()!);
 Console.WriteLine("Informe sua altura: ");
 double altura = double.Parse(Console.ReadLine()!);
 
-Console.WriteLine("Possui CNH? (true/false) ");
+Console.WriteLine("Possui CNH? (True/False) ");
 bool cnh = bool.Parse(Console.ReadLine()!);
 
 Console.WriteLine("Meu nome é: " + nome);
