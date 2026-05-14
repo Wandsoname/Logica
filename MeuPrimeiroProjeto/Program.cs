@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+// escrevendo e lendo informações
 Console.WriteLine("Informe seu nome: ");
 string nome = Console.ReadLine()!;
 
